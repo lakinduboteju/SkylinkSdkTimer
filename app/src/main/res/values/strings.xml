@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SkylinkSdkTimer</string>
+    <string name="connect_btn_text">Connect</string>
+    <string name="disconnect_btn_text">Disconnect</string>
+    <string name="getstoredmessages_btn_text">GetStoredMessages</string>
+</resources>
